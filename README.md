@@ -30,6 +30,10 @@ root/frames
 root/images
 root/videos
 
+# Demo
+
+https://www.youtube.com/watch?v=ekUkft61Jwg
+
 # Limitation
 This version is fully functional but does not include automatic video download and ChatGPT frame inserts.
 You should download a video first and rename it as /videos/episode1.mp4
