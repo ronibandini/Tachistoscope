@@ -25,6 +25,11 @@ pip install raspberrypi-tm1637
 python -m pip install pytube
 pip3 install youtube-search-python
 
+Create 3 folders at root
+root/frames
+root/images
+root/videos
+
 # Limitation
 This version is fully functional but does not include automatic video download and ChatGPT frame inserts.
 You should download a video first and rename it as /videos/episode1.mp4
