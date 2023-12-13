@@ -34,6 +34,10 @@ root/videos
 
 https://www.youtube.com/watch?v=ekUkft61Jwg
 
+# More information
+English https://hackaday.io/project/194031-tachistoscope
+Spanish https://bandini.medium.com/indoctrinator-notas-para-fabricar-la-m%C3%A1quina-de-adoctrinamiento-673c6211b670
+
 # Limitation
 This version is fully functional but does not include automatic video download and ChatGPT frame inserts.
 You should download a video first and rename it as /videos/episode1.mp4
