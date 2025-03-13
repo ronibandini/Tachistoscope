@@ -1,3 +1,5 @@
+![PXL_20240312_195913396](https://github.com/user-attachments/assets/692ab0f3-1510-47d4-8736-73e7b57f7683)
+
 # Tachistoscope
 Indoctrination video machine based on James Vicary experiment. 
 
